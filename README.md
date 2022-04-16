@@ -1,4 +1,4 @@
-# Desafio Sprint 01 - Compass.UOL <img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" style="zoom:1%;" />
+# Desafio Sprint 01 - Compass.UOL 
 
 ## Paulo Rayann :man_technologist:
 
