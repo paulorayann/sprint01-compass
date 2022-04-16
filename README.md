@@ -1,6 +1,6 @@
 # Desafio Sprint 01 - PB Trilha Node.js - Compass.UOL 
 
-## Paulo Rayann :man_technologist:  Squad Spectrum
+## [Paulo Rayann](https://www.linkedin.com/in/paulorayann/) :man_technologist:  Squad Spectrum
 
 ### 1- Para que serve o método Scrum? 
 
