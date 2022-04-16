@@ -1,3 +1,4 @@
+![logo-uol-icon-1024](https://user-images.githubusercontent.com/86445602/163687135-106e0800-fe4d-4d71-b0e4-e9f71b6f90e8.png)
 # Desafio Sprint 01 - PB Trilha Node.js - Compass.UOL 
 
 ## Paulo Rayann :man_technologist:
