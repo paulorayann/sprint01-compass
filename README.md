@@ -1,4 +1,4 @@
-# Desafio Sprint 01 - Compass.UOL 
+# Desafio Sprint 01 - Programa de Bolsas Trilha Node.js - Compass.UOL 
 
 ## Paulo Rayann :man_technologist:
 
