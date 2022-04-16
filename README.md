@@ -6,7 +6,6 @@
 
 > O Scrum é uma metodologia ágil que objetiva o trabalho em grupo, de modo que todos envolvidos no time são igualmente responsáveis pelo sucesso ou fracasso do projeto. 
 
-------
 
 
 
@@ -14,7 +13,7 @@
 
 > O Scrum é organizado dentro das chamadas "Sprints", que são time-boxes (caixas de tempo com duração definida), objetivando a gerência de projetos de forma ágil, através da definição de objetivos e prazos estabelecidos.
 
-------
+
 
 
 
@@ -22,7 +21,7 @@
 
 > Git é um sistema de versionamento de arquivos que possibilita que diversas pessoas possam trabalhar em conjunto em um mesmo projeto/código sem riscos de sobrescrever alterações anteriores.
 
-------
+
 
 
 
@@ -30,7 +29,7 @@
 
 > O Product Owner (P.O), é o representante do cliente dentro de um time do Scrum. Ele que capta as opiniões dos clientes que façam sentido para os negócios do projeto. Objetivando agregar o máximo de valor, a cada Sprint ele ouve tanto os Clientes quanto o time de desenvolvimento, porém, a palavra final sobre a lista de prioridades do Product Backlog é dele.
 
-------
+
 
 
 
@@ -42,7 +41,7 @@
 git init
 ```
 
-------
+
 
 
 
@@ -50,7 +49,7 @@ git init
 
 > O HTTP é um protocolo que define regras de comunicação entre cliente e servidor na internet. 
 
-------
+
 
 
 
@@ -58,7 +57,7 @@ git init
 
 > O HTTP é baseado em texto sem conexão que funciona sem criptografia, quando uma é enviada, é feito uma chamada de mensagem, havendo uma solicitação feita pelo cliente para o servidor, e uma resposta do servidor para o cliente.
 
-------
+
 
 
 
@@ -68,7 +67,7 @@ git init
 git add < nomeArquivo>
 ```
 
-------
+
 
 
 
@@ -76,7 +75,7 @@ git add < nomeArquivo>
 
 > A Branch master é a branch "padrão" quando se cria um repositório, ela serve como a branch base/principal do projeto. As próximas branches criadas serão secundárias, chamadas também de ramos.
 
-------
+
 
 
 
@@ -91,7 +90,7 @@ Caso esteja utilizando mais de um ambiente remoto configurado, precisará especi
 git merge <nomeBranch>
 ```
 
-------
+
 
 
 
@@ -105,7 +104,7 @@ git merge <nomeBranch>
 
 - [x] #####   	d. Todas as alternativas estão corretas.  `Correto`
 
-------
+
 
 
 
@@ -113,7 +112,7 @@ git merge <nomeBranch>
 
 > MongoDB é um SGBD não relacional orientado a documentos. Ele possui alta flexibilidade e escabilidade.
 
-------
+
 
 
 
@@ -121,7 +120,7 @@ git merge <nomeBranch>
 
 > MySQL é um SGBD relacional orientado a tabelas. Ele possui um modelo cliente-servidor em que o servidor amarzena os dados e para acessar esses dados o cliente faz uma solicitação.
 
-------
+
 
 
 
@@ -129,7 +128,7 @@ git merge <nomeBranch>
 
 > O git é um sistema de controle de versão de arquivos, enquanto que o Github é uma plataforma criada para armazenar estes arquivos/projetos.
 
-------
+
 
 
 
@@ -138,7 +137,7 @@ git merge <nomeBranch>
 > Os dois métodos utilizados para realizar um update são o PUT e o PATCH. É similar ao método POST, porém o PUT é utilizado para atualizar recursos substituíndo todos estes recursos. Ele também pode ser usado para criar recursos.
 > O método PATCH também é utilizado para realizar um update, mas ao invés de substituir recursos, ele apenas modifica o conteúdo deste recurso.
 
-------
+
 
 
 
@@ -146,7 +145,7 @@ git merge <nomeBranch>
 
 > O status code 201 denominado de "Created". Ele informa que a solicitação foi bem sucedida e o novo recurso foi criado.
 
-------
+
 
 
 
@@ -161,7 +160,7 @@ git merge <nomeBranch>
 > - 204 (No Content) operação processou a solitação, porém não retorna nenhum conteúdo
 >
 
-------
+
 
 
 
@@ -177,7 +176,7 @@ git merge <nomeBranch>
 
 
 
-------
+
 
 
 
@@ -193,7 +192,7 @@ git merge <nomeBranch>
 
 
 
-------
+
 
 
 
@@ -201,7 +200,7 @@ git merge <nomeBranch>
 
 > É a extensão `.ibd`
 
-------
+
 
 
 
@@ -215,7 +214,7 @@ tar -zxvf  <nome-do-arquivo-baixado>
 
 
 
-------
+
 
 
 
@@ -223,7 +222,7 @@ tar -zxvf  <nome-do-arquivo-baixado>
 
 > Por ser um banco de dados orientado a documentos, ele oferece alta escabilidade e performance.
 
-------
+
 
 
 
@@ -239,7 +238,7 @@ tar -zxvf  <nome-do-arquivo-baixado>
 >
 > 5XX -> Respostas de erro do servidor
 
-------
+
 
 
 
