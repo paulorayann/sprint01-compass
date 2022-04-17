@@ -166,9 +166,9 @@ git merge <nomeBranch>
 
 ### 18- Qual a extensão ".xxx" contêm as definições da tabela? 
 
-- [x] #####   		a. Commands.myi  `Correto`
+- [ ] #####   		a. Commands.myi  
 
-- [ ] #####   		b. Commands.frm
+- [x] #####   		b. Commands.frm `Correto`
 
 - [ ] #####   		c. Commands.myd 
 
@@ -198,7 +198,7 @@ git merge <nomeBranch>
 
 ### 20- Qual a extensão ".xxx" que contêm os dados da tabela? 
 
-> É a extensão `.ibd`
+> É a extensão `.myd`
 
 
 
