@@ -1,4 +1,4 @@
-# Desafio Sprint 01 - PB Trilha Node.js - Compass.UOL 
+# Desafio Sprint 01 - PB Trilha Node.js - Compasso.UOL 
 
 ## [Paulo Rayann](https://www.linkedin.com/in/paulorayann/) :man_technologist:  Squad Spectrum
 
